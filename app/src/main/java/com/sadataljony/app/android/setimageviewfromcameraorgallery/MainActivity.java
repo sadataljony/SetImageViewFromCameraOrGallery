@@ -1,10 +1,5 @@
 package com.sadataljony.app.android.setimageviewfromcameraorgallery;
 
-/**
- * this project is a modified version of Tasnuva Tabassum oshin's Volley_Image_Upload project in github
- * for original source please visit https://github.com/TasnuvaOshin/Volley_Image_Upload
- **/
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
